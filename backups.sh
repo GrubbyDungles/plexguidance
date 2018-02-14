@@ -52,4 +52,7 @@
 
     :wq
     $
+## NEXT STILL TO DO
+Add an incremental backup by zip / tar with versioning of directory /mnt/backup/live to /mnt/backup/archive/appdata.zip
 
+Use either no series or date in either zip itself or create directory with numeric date for zip to reside in.
